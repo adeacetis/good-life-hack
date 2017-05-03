@@ -11,4 +11,4 @@ CL commands that will save your life.
 ## SSH
 
 - Will copy your ssh key to server
-ssh-copy-id SSHUSER@SSHSERVER
+`ssh-copy-id SSHUSER@SSHSERVER`
